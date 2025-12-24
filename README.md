@@ -1,0 +1,2 @@
+# Data_Science_Internship_Unified_Mentor_Pvt.Ltd.
+📊 Internship Portfolio: 4 projects showcasing ML &amp; analytics skills 🧠 OCD severity prediction (R²≈0.998), 💬 customer satisfaction (100% accuracy), 🚦 India 2020 road accident EDA, 💼 data scientist salary analysis. ⚙️ Python, pandas, scikit‑learn; 📈 skills in preprocessing, EDA, modeling, deployment, insights across domains.
