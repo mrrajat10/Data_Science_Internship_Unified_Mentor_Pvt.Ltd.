@@ -1,15 +1,15 @@
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies :
 - **Python 3.x**
 - Libraries:
   - `pandas` for data manipulation
   - `numpy` for numerical analysis
   - `matplotlib` & `seaborn` for visualization
   - `scikit-learn` for statistical modeling
-- Jupyter Notebook for interactive exploration
+- Jupyter Notebook  and Google Colab for interactive exploration
 
 ---
 
-## 📊 Key Insights (Examples)
+## 📊 Key Insights (Examples) :
 - Peak accident times: Evening hours (5–9 PM).
 - Higher mortality rates in rural areas compared to urban centers.
 - Major causes: Over-speeding, drunk driving, and poor road conditions.
