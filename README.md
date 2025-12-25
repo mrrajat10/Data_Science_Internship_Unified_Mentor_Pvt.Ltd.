@@ -9,7 +9,7 @@
 - 📊 pandas, NumPy
 - 🤖 scikit‑learn (Random Forest, Regression, Evaluation)
 - 📈 matplotlib, seaborn (visualizations)
-- 🗂️ Jupyter Notebook, VS Code
+- 🗂️ Jupyter Notebook, VS Code ,Google Colab
 # 📈 Core Skills
 - 🔄 Data preprocessing & feature engineering
 - 🔬 Exploratory Data Analysis (EDA)
