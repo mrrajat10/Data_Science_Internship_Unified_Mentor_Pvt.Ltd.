@@ -1,4 +1,4 @@
-# OCD Patient Data Analysis
+# OCD Patient Severity Data Analysis
 
 This project explores demographic and clinical data of patients with Obsessive-Compulsive Disorder (OCD). The aim is to understand patterns in patient characteristics and symptoms.
 
